@@ -1,0 +1,1 @@
+Projeto talker manager
